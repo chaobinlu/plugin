@@ -11,7 +11,32 @@
 go get -u -v github.com/kardianos/govendor
 ```
 
+```
+C:\Users\pc005>go get -u -v github.com/kardianos/govendor
+```
+```
+github.com/kardianos/govendor (download)
+github.com/kardianos/govendor/vendor/github.com/Bowery/prompt
+github.com/kardianos/govendor/prompt
+github.com/kardianos/govendor/internal/pathos
+github.com/kardianos/govendor/vendor/github.com/dchest/safefile
+github.com/kardianos/govendor/cliprompt
+github.com/kardianos/govendor/internal/vos
+github.com/kardianos/govendor/pkgspec
+github.com/kardianos/govendor/vendorfile
+github.com/kardianos/govendor/vendor/github.com/pkg/errors
+github.com/kardianos/govendor/internal/vfilepath
+github.com/kardianos/govendor/vcs
+github.com/kardianos/govendor/vendor/gopkg.in/yaml.v2
+github.com/kardianos/govendor/vendor/github.com/google/shlex
+github.com/kardianos/govendor/vendor/golang.org/x/tools/go/vcs
+github.com/kardianos/govendor/context
+github.com/kardianos/govendor/migrate
+github.com/kardianos/govendor/help
+github.com/kardianos/govendor/run
+github.com/kardianos/govendor
 #### 支持make file的平台
+```
 
 ```
 make
