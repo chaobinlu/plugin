@@ -35,6 +35,8 @@ github.com/kardianos/govendor/migrate
 github.com/kardianos/govendor/help
 github.com/kardianos/govendor/run
 github.com/kardianos/govendor
+
+```
 #### 支持make file的平台
 ```
 
